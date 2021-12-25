@@ -1,1 +1,1 @@
-this project can be viewed using jupyter notebook
+used python(pandas, matplotlib) to perform data analysis
